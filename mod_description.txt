@@ -1,7 +1,7 @@
-GA071MA additional drivers
+JPN Idol Trucker
 ------------------------------------------------
 
-Version: 1.0.0
+Version: 0.0.1
 
 Please consider the following:
 1 - DOES NOT replace the original drivers.
@@ -13,6 +13,6 @@ Hope you like it
 
 Have fun!
 
-GA071MA
+yambal
 
 
