@@ -1,0 +1,18 @@
+GA071MA additional drivers
+------------------------------------------------
+
+Version: 1.0.0
+
+Please consider the following:
+1 - DOES NOT replace the original drivers.
+2 - It is a merge between 2 existing mods (AvMark additional drivers + Female Drivers by beatbird) to which I replaced some images because they were really low quality.
+3 - I've added new female drivers until # 999
+4 - The game does not appear to accept driver # 1000 and above: - ((
+
+Hope you like it
+
+Have fun!
+
+GA071MA
+
+

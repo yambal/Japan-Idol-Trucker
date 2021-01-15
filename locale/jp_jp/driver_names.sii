@@ -1,0 +1,37 @@
+SiiNunit {
+ driver_names : .driver.names {
+		name[00]: "Bronislaw E."
+		name[01]: "Ian P."
+		name[02]: "Cameron S."
+		name[03]: "Richard O."
+		name[04]: "Manuel J."
+		name[05]: "Henry K."
+		name[06]: "Brandon L."
+		name[07]: "Ludovic S."
+		name[08]: "John M."
+		name[09]: "Bob S."
+
+		# AKB48 Team-A (2021.01)
+		name[10]: "+佐藤 美波"
+		name[11]: "+本田 そら"
+		name[12]: "+田口 愛佳"
+		name[13]: "+下尾 みう"
+		name[14]: "+横山 由依"
+		name[15]: "+千葉 恵里"
+		name[16]: "+前田 彩佳"
+		name[17]: "+向井地 美音"
+		name[18]: "+小栗 有以"
+		name[19]: "+奥本 陽菜"
+		name[20]: "+山根 涼羽"
+		name[21]: "+宮崎 美穂"
+		name[22]: "+古川 夏凪"
+		name[23]: "+吉田 華恋"
+		name[24]: "+道枝 咲"
+		name[25]: "+岡部 麟"
+		name[26]: "+入山 杏奈"
+		name[27]: "+加藤 玲奈"
+		name[28]: "+鈴木 くるみ"
+		name[29]: "+篠崎 彩奈"
+		name[30]: "+西川 怜"
+	}
+}
