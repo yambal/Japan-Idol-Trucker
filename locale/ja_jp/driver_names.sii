@@ -1,9 +1,9 @@
 SiiNunit {
 	driver_names : .driver.names {
 		# from driver
-		name[00]: "Bronislaw E."
-		name[01]: "Ian P."
-		name[02]: "Cameron S."
+		name[00]: "星 桃次郎"
+		name[01]: "やもめのジョナサン"
+		name[02]: "トラックの運転手のイラスト"
 		name[03]: "Richard O."
 		name[04]: "Manuel J."
 		name[05]: "Henry K."
