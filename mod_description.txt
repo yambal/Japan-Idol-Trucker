@@ -1,18 +1,19 @@
 JPN Idol Trucker
 ------------------------------------------------
 
-Version: 0.0.1
+Version: 0.0.3
 
-Please consider the following:
-1 - DOES NOT replace the original drivers.
-2 - It is a merge between 2 existing mods (AvMark additional drivers + Female Drivers by beatbird) to which I replaced some images because they were really low quality.
-3 - I've added new female drivers until # 999
-4 - The game does not appear to accept driver # 1000 and above: - ((
+1. オリジナルドライバーを差し替えます
+2. オリジナルドライバーの性別は維持しますが、画像と名前は指し変わります
 
-Hope you like it
+不具合・要望
 
-Have fun!
+以下のフォームに投稿してください
+GitHub Issue:https://github.com/yambal/Japan-Idol-Trucker/issues
 
-yambal
+updates
 
-
+0.0.3
+AKB48 Team A,K,B 追加（2020/01時点のメンバー）
+トラック野郎 追加
+いらすとや 追加
