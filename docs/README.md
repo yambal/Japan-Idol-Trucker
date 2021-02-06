@@ -1,6 +1,6 @@
 # JPN Idol Trucker
 
-![icon](icon.jpg)
+![icon](https://github.com/yambal/Japan-Idol-Trucker/raw/master/icon.jpg)
 
 ## 概要
 Mod for **Euro Truck Simulator 2**
@@ -15,7 +15,7 @@ Mod for **Euro Truck Simulator 2**
 以下のフォームに投稿してください
 - [GitHub Issue](https://github.com/yambal/Japan-Idol-Trucker/issues)
 ## 更新履歴
-[ドライバーリスト]('./DRIVER')
+[ドライバーリスト](https://github.com/yambal/Japan-Idol-Trucker/blob/master/DRIVERS.md)
 
 - 0.0.3
   - AKB48 Team A,K,B 追加（2021/01時点のメンバー）
