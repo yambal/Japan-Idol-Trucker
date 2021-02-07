@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "hitoe_arakaki.tobj" 
+	texture_name : "texture" 
+} 
