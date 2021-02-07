@@ -15,7 +15,7 @@ Mod for **Euro Truck Simulator 2**
 以下のフォームに投稿してください
 - [GitHub Issue](https://github.com/yambal/Japan-Idol-Trucker/issues)
 ## 更新履歴
-[ドライバーリスト](https://github.com/yambal/Japan-Idol-Trucker/blob/master/DRIVERS.md)
+[ドライバーリスト](https://yambal.github.io/Japan-Idol-Trucker/DRIVERS)
 
 - 0.0.3
   - AKB48 Team A,K,B 追加（2021/01時点のメンバー）
@@ -26,3 +26,6 @@ Mod for **Euro Truck Simulator 2**
 - 0.0.5
   - 乃木坂46（2021/01時点の研究生追加）
   - 伝説のアイドル
+- 0.0.6
+  - モーニング娘。
+  - ももいろクローバーZ
