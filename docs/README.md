@@ -29,3 +29,5 @@ Mod for **Euro Truck Simulator 2**
 - 0.0.6
   - モーニング娘。
   - ももいろクローバーZ
+  - Perfume
+  - 伝説のアイドル #2
