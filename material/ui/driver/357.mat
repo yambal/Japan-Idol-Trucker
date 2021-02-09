@@ -1,5 +1,5 @@
 material : "ui" 
 { 
-	texture : "357.tobj" 
+	texture : "ami_suzuki.tobj" 
 	texture_name : "texture" 
 } 
