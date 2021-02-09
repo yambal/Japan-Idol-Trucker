@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "momoko_tsugunaga.tobj" 
+	texture_name : "texture" 
+} 

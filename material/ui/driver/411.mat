@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "haruka_ayase.tobj" 
+	texture_name : "texture" 
+} 

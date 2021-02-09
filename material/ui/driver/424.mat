@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "yui_aragaki.tobj" 
+	texture_name : "texture" 
+} 

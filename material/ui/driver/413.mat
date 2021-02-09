@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "riho_yoshioka.tobj" 
+	texture_name : "texture" 
+} 

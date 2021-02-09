@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "erika_sawajiri.tobj" 
+	texture_name : "texture" 
+} 

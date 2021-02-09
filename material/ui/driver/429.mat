@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "hiroko_yakushimaru.tobj" 
+	texture_name : "texture" 
+} 

@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "yuko_ohshima.tobj" 
+	texture_name : "texture" 
+} 

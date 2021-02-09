@@ -1,0 +1,5 @@
+material : "ui" 
+{ 
+	texture : "yuki_saito.tobj" 
+	texture_name : "texture" 
+} 
